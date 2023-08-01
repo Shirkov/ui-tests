@@ -1,0 +1,31 @@
+prod:
+  browser:
+    base_url: ""
+    login: ""
+    password: ""
+  cms:
+    cms_url: ""
+    cms_login: ""
+    cms_password: ""
+    cms_sys_login: ""
+    cms_sys_password: ""
+  telegram:
+    bot_url: ""
+    token: ""
+    chat_id: ""
+
+dev:
+  browser:
+    base_url: ""
+    login: ""
+    password: ""
+  cms:
+    cms_url: ""
+    cms_login: ""
+    cms_password: ""
+    cms_sys_login: ""
+    cms_sys_password: ""
+  telegram:
+    bot_url: "https://api.telegram.org/bot"
+    token: ""
+    chat_id: ""
